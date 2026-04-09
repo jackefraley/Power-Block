@@ -1,4 +1,4 @@
-# Power Conditioning Block Projects
+# Power Block Projects
 
 This folder/repository contains two KiCad hardware designs split by function.
 
